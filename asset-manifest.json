@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jayanta1622/top-playlist/static/css/main.0ae4a7a3.css",
+    "main.js": "/Jayanta1622/top-playlist/static/js/main.7e70823a.js",
+    "index.html": "/Jayanta1622/top-playlist/index.html",
+    "main.0ae4a7a3.css.map": "/Jayanta1622/top-playlist/static/css/main.0ae4a7a3.css.map",
+    "main.7e70823a.js.map": "/Jayanta1622/top-playlist/static/js/main.7e70823a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ae4a7a3.css",
+    "static/js/main.7e70823a.js"
+  ]
+}
